@@ -34,6 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:5.0.8"],\
             ["@vue/cli-service", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:5.0.8"],\
             ["core-js", "npm:3.31.0"],\
+            ["es6-promise", "npm:4.2.8"],\
             ["eslint", "npm:7.32.0"],\
             ["eslint-plugin-vue", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:8.7.1"],\
             ["vue", "npm:3.3.4"],\
@@ -6287,6 +6288,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["es6-promise", [\
+        ["npm:4.2.8", {\
+          "packageLocation": "./.yarn/cache/es6-promise-npm-4.2.8-c9f5b11f66-95614a8887.zip/node_modules/es6-promise/",\
+          "packageDependencies": [\
+            ["es6-promise", "npm:4.2.8"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["escalade", [\
         ["npm:3.1.1", {\
           "packageLocation": "./.yarn/cache/escalade-npm-3.1.1-e02da076aa-a3e2a99f07.zip/node_modules/escalade/",\
@@ -6858,6 +6868,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:5.0.8"],\
             ["@vue/cli-service", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:5.0.8"],\
             ["core-js", "npm:3.31.0"],\
+            ["es6-promise", "npm:4.2.8"],\
             ["eslint", "npm:7.32.0"],\
             ["eslint-plugin-vue", "virtual:41129228bfcdc9c92b4cde58fbc15c83a5512814cd8a199071d011e88af23b415f3a3f97fced0b18e3986c43f85beef57c90a9ce9536f980150b927c4278b0c4#npm:8.7.1"],\
             ["vue", "npm:3.3.4"],\
